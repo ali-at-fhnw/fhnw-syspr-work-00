@@ -1,5 +1,5 @@
 # System-Programmierung
-## Hands-on zu Lektion 0
+## Hands-on zu Lektion 0 (Klasse 3ia)
 Für Slides und Code Beispiele, siehe [Lektion 0](../../../fhnw-syspr/blob/master/00/README.md)
 
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
