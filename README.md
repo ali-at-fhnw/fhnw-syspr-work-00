@@ -1,4 +1,4 @@
-# System-Programmierung
+# System-Programmierung (3ia)
 ## Hands-on zu Lektion 0
 Für Slides und Code Beispiele, siehe [Lektion 0](../../../fhnw-syspr/blob/master/00/README.md)
 
