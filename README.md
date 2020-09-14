@@ -26,7 +26,7 @@ Die einzelnen Schritte sind in den Slides.
 ### Abgabe
 * Lokale Änderungen [committen und pushen](#git).
 * Review? GitHub [Issue erstellen](../../issues/new), "@tamberg" erwähnen.
-* Offene Fragen ausformulieren, was geht nicht, was haben Sie versucht.
+* Fragen ausformulieren. Was geht nicht? Was haben Sie versucht?
 
 ## Tools
 ### Git
