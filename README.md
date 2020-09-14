@@ -9,7 +9,7 @@ Für Slides und Code Beispiele, siehe [Lektion 0](../../../fhnw-syspr/blob/maste
 Die einzelnen Schritte sind in den Slides.
 * Raspberry Pi Setup via USB zum eigenen Computer.
 * Oder Setup einer Linux VM auf eigenem Computer.
-* "Hello World" in C auf Raspberry Pi speichern.
+* "Hello World" in C auf Raspberry Pi bzw. VM speichern.
 * Den C Source Code mit gcc kompilieren.<pre>
     $ gcc -o hello hello.c
     $ ./hello</pre>
@@ -37,16 +37,16 @@ Auf Ihrem Computer
 http://github.com/fhnw-syspr-CLASS/fhnw-syspr-work-00-USER_NAME</pre>
 
 Auf dem Raspberry Pi bzw. VM
-* Repository klonen<pre>
+* Repository mit *clone* klonen<pre>
     $ cd ~
     $ git clone REPO_URL</pre>
-* Neue Datei kreieren<pre>
+* Neue Datei mit *add* einfügen<pre>
     $ git add FILE</pre>
-* Änderungen committen<pre>
+* Änderungen mit *commit* speichern<pre>
     $ git commit FILE -m "Fixed all bugs"</pre>
-* Änderungen hochladen<pre>
+* Änderungen mit *push* hochladen<pre>
     $ git push</pre>
-(Hinweis: Der Dozent sieht nun den aktuellen Stand des Repositories.)
+* Resultat: aktueller Stand ist auf GitHub.
 
 ### Nano
 Auf dem Raspberry Pi bzw. VM
@@ -56,6 +56,6 @@ Auf dem Raspberry Pi bzw. VM
 
 ### SSH
 Auf Ihrem Computer
-* Terminal öffnen (Mac) oder `WINDOWS` `R` cmd `RETURN` (Windows)
+* Terminal öffnen (Mac) oder `WINDOWS` `R` *cmd* `RETURN` (Windows)
 * SSH Session starten mit<pre>
     $ ssh pi@raspberrypi.local</pre>
